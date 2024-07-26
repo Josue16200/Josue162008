@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">📚 Atualmente estou aprendendo programação no SENAI<br>🎲 Fun fact: Sou músico desde os meus 10 anos</p>
+<p align="left">📚 Atualmente estou aprendendo programação no SENAI<br>🎲 Fato interessante: Sou músico desde os meus 10 anos</p>
 
 ###
 
